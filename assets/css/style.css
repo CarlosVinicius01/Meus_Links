@@ -27,9 +27,9 @@ body {
 
 .image {
     border: 2px solid #13117e;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    border-radius: 100%;
     margin: auto;
     margin-top: 50px;
     box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.507);
@@ -99,8 +99,8 @@ body {
     }
 
     .image {
-        height: 250px;
-        width: 250px;
+        height: 280px;
+        width: 280px;
     }
 
     .button-link {
